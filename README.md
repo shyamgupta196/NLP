@@ -6,8 +6,7 @@
 
 2.Upload The Model Here 
 
-    
-    ![ \\ ](https://user-images.githubusercontent.com/60971003/113472023-d9c01880-947d-11eb-8cc3-0e89fcb717da.png)
+![ \\ ](https://user-images.githubusercontent.com/60971003/113472023-d9c01880-947d-11eb-8cc3-0e89fcb717da.png)
 
 3. and run cells of the Notebook Order-Wise
 
