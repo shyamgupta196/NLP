@@ -2,7 +2,10 @@
 ## To see the Project - ![visit the link](https://colab.research.google.com/drive/1dVFHa3pOqZH21OC1ge4jpVimVU4Fz2yt#forceEdit=true&sandboxMode=true) 
 ### follow these instructions to run the notebook
 1. download to the sentiment-model.pkl file 
+
+
 2.Upload The Model Here 
+
     
     ![](https://user-images.githubusercontent.com/60971003/113472023-d9c01880-947d-11eb-8cc3-0e89fcb717da.png)
 
