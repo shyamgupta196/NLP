@@ -1,5 +1,5 @@
 # NLP - Sentiment Analysis Project 
-## To see the Project - ![visit the link](https://colab.research.google.com/drive/1dVFHa3pOqZH21OC1ge4jpVimVU4Fz2yt#forceEdit=true&sandboxMode=true) 
+## To see the Project - ![visit the link](https://colab.research.google.com/drive/1dVFHa3pOqZH21OC1ge4jpVimVU4Fz2yt#forceEdit=true&sandboxMode=true&scrollTo=0fIygQY_V28n) 
 ### follow these instructions to run the notebook
 1. download to the sentiment-model.pkl file 
 
